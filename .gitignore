@@ -1,3 +1,4 @@
 .vscode/
 venv/Lib/site-packages/
 venv/Scripts/__pycache__/
+devproject/__pycache__/*.pyc
